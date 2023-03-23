@@ -1,0 +1,106 @@
+Tittle: CODE CHALLANGE WEEK ONE
+Author name : Jarvis Victor Isika
+Live Link : https://github.com/jarvisisika/Code-Challange-Phase-1
+
+PROJECT SETUP INSTRUCTIONS:
+Download and install Visual Studio Code: You can download Visual Studio Code from the official website and install it on your computer.
+
+Install Node.js: Node.js is a JavaScript runtime that allows you to run JavaScript code outside of a web browser. You can download and install Node.js from the official website .
+
+Set up Git: Git is a popular version control system that allows you to track changes to your code over time. You can install Git on your computer by downloading it from the official website and following the installation instructions.
+
+Create a new Git repository: Once Git is installed, you can create a new repository for your project by opening a terminal and navigating to the directory where you want to store your code.
+
+Install dependencies: Depending on the requirements of your project, you may need to install additional software packages or libraries using Node.js package manager (npm). You can create a new package.
+
+Write your code: You can create a new file in Visual Studio Code by selecting File > New File from the menu. You can then write your JavaScript code in the file and save it to your project directory.
+
+Test your code: You can test your JavaScript code using testing frameworks . You can install these testing frameworks using npm and run tests using the npm test command.
+
+Commit and push your code to Git: Once you have written and tested your code, you can commit your changes and push them to your Git repository .
+
+
+
+DESCRIPTION OF PROJECT:
+Challenge 1 : STUDENT GRADE GENERATOR.
+
+In this challenge, the user is prompted to enter their marks. The program then applies grading criteria and returns a grade to the user based on their marks.
+
+The grading criteria are as follows:
+
+    A: 79 and above
+    B: 60-78
+    C: 49-59
+    D: 40-48
+    E: below 40
+
+To use the program, the user should enter their marks when prompted. The program will then output the corresponding grade.
+
+
+
+Challenge 2 : SPEED DETECTOR.
+
+This challenge involves a program that checks whether a car is exceeding the speed limit. The user is prompted to enter the speed of their car, and the program then compares this speed to the speed limit of 70 km/h.
+
+If the user's car is travelling at or below the speed limit, the program outputs "Ok". However, if the car is travelling above the speed limit, the program calculates the number of demerit points the user should receive based on their speed. The calculation is based on the assumption that a driver receives one demerit point for every 5 km/h over the speed limit. If the user receives more than 12 demerit points, the program outputs "License suspended". Otherwise, the program outputs the number of demerit points.
+
+To use the program, the user should enter the sMIT License
+
+Copyright (c) 2023 jarvisisika
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.peed of their car when prompted. The program will then output either "Ok", the number of demerit points, or "License suspended".
+
+
+
+Challenge 3 : NET SALARY CALLCULATOR.
+
+This challenge involves a program that calculates an individual's net salary based on their basic salary and benefits. The program takes the user's inputs for their basic salary and benefits and uses them to calculate their gross salary. The program then calculates tax, NHIF, and NSSF deductions based on the user's gross salary. Finally, the program calculates the user's net salary by subtracting these deductions from their gross salary.
+
+The program uses the following rates for tax, NHIF, and NSSF deductions:
+
+    TAX_RATE: 30%
+    NHIF_RATE: 2.1%
+    NSSF_RATE: 0.06%
+
+To use the program, the user should enter their basic salary and benefits when prompted. The program will then output their gross salary, tax deduction, NHIF deduction, NSSF deduction, and net salary.
+
+
+
+COPYRIGHT AND LICENSE INFORMATION: SS
+MIT License
+
+Copyright (c) 2023 jarvisisika
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
